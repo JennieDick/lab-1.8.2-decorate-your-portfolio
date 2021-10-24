@@ -1,0 +1,15 @@
+body {
+    background-color:forestgreen;
+}
+h1, h2 {
+    color:rgb(25, 2, 48);
+}
+div {
+    line-height: 1.8em;
+    background: forestgreen;
+    border-style: dotted;
+}
+.main-section {
+    border-color: rgb(43, 1, 43);
+    font-size: 50px;
+}
